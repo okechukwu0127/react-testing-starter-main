@@ -101,3 +101,7 @@ if (process.env.REACT_APP_AUTH0) {
     document.getElementById("root")
   );
 }
+
+//yarn add cypress @testing-library/cypress
+
+//yarn run cypress open
