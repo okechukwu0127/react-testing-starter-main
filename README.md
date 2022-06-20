@@ -49,7 +49,7 @@ run the following command to initialize cypress
 <br/>
 
 # INTEGRATION TEST with @testing-library
-run the following command to initialize cypress
+run the following command to initialize the integratoin test
 
 `yarn install`<br/>
 `yarn test`
